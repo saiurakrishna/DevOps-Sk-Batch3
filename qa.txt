@@ -1,1 +1,2 @@
 adding new content from QA branch 
+checking git pull
