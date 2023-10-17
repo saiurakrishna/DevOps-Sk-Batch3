@@ -1,0 +1,4 @@
+*.log
+*.html
+node_modules
+
